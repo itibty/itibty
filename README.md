@@ -1,3 +1,3 @@
-I write software and build small tools for repetitive tasks.
+I've spent about a decade building web applications, from the interfaces people use to the services behind them.
 
-When I figure something out, I leave myself a note for next time.
+I care about making software easy to use and code easy to change.
